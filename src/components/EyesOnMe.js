@@ -15,4 +15,4 @@ export default class EyesOnMe extends Component {
         <button onFocus={this.hadleFoucs} onBlur={this.handleBlur}>click me</button>
       </div>
     )
-  }
+  }}
